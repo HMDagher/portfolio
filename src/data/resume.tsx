@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Abdelhadi Dagher",
   initials: "AD",
-  url: "https://linkedin.com/in/hmdagher/",
+  url: "https://hadi.inoutapp.io",
   location: "Lebanon",
   locationLink: "https://www.google.com/maps/place/Lebanon",
   description:
     "Experienced Full Stack Developer specializing in Laravel and the TALL Stack, with a passion for IoT and smart city solutions.",
   summary:
     "With over 3 years of experience designing scalable software solutions, I have developed a range of SaaS and mobile applications for industries including healthcare, real estate, and loyalty programs. I bring a strong backend engineering background and a vision to bridge software with industrial automation.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "PHP",
     "Laravel",
@@ -28,7 +28,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "abdelhadidagher@gmail.com",
@@ -36,7 +36,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "#",
+        url: "https://github.com/HMDagher/portfolio",
         icon: Icons.github,
         navbar: true,
       },
@@ -48,7 +48,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "#",
+        url: "https://x.com/HMDagher",
         icon: Icons.x,
         navbar: true,
       },
@@ -56,7 +56,7 @@ export const DATA = {
         name: "Send Email",
         url: "mailto:abdelhadidagher@gmail.com",
         icon: Icons.email,
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -104,7 +104,7 @@ export const DATA = {
       badges: [],
       location: "Lebanon & Qatar",
       title: "Full Stack Engineer",
-      logoUrl: "/opendoor.png",
+      logoUrl: "/opendoor.jpg",
       start: "Jan 2023",
       end: "Aug 2023",
       description:
