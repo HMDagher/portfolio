@@ -128,7 +128,7 @@ export const DATA = {
       badges: [],
       location: "Lebanon",
       title: "Mobile Developer",
-      logoUrl: "/oxshare.png",
+      logoUrl: "/oxshare.jpg",
       start: "Dec 2021",
       end: "Mar 2022",
       description:
