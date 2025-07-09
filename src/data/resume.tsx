@@ -62,18 +62,7 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "Balanced - Medical Center",
-      href: "https://balanced.com.au/",
-      badges: [],
-      location: "Australia",
-      title: "Backend Developer",
-      logoUrl: "/balanced.png",
-      start: "Jun 2024",
-      end: "May 2025",
-      description:
-        "Developed and maintained backend for multiple user panels using TALL stack. Integrated Chargebee, AWS SNS, and ShipStation for healthcare and e-commerce services.",
-    },
+    
     {
       company: "InOut - Loyalty Program",
       href: "https://inoutapp.io/",
@@ -85,6 +74,31 @@ export const DATA = {
       end: "Present",
       description:
         "Led backend development for a SaaS platform enabling gamified loyalty programs. Integrated Stripe and Google APIs, and secured funding via Jusoor’s Incubator.",
+    },
+    
+    {
+      company: "Ehjoz Chalet - Chalet Booking Platform",
+      href: "https://ehjozchalet.com/",
+      badges: [],
+      location: "Lebanon",
+      title: "Full Stake Engineer",
+      logoUrl: "/inout.png",
+      start: "June 2025",
+      end: "July 2025",
+      description:
+        "• Developed a comprehensive booking system for chalets, overseeing the entire process from database design to deployment • Implemented complex search and availability checker services to enhanceuser experience and operational efficiency. • Integrated a user-friendly design template into the system and used Filamentphp for seamless admin, owner, and customer interactions. • Deployed the application on AWS, utilizing Laravel 12, PHP 8.4, and PostgreSQL to ensure robust performance.",
+    },
+    {
+      company: "Balanced - Medical Center",
+      href: "https://balanced.com.au/",
+      badges: [],
+      location: "Australia",
+      title: "Backend Developer",
+      logoUrl: "/balanced.png",
+      start: "June 2024",
+      end: "May 2025",
+      description:
+        "Developed and maintained backend for multiple user panels using TALL stack. Integrated Chargebee, AWS SNS, and ShipStation for healthcare and e-commerce services.",
     },
     {
       company: "LYT by Dyala",
@@ -99,18 +113,6 @@ export const DATA = {
         "Redesigned a high-performance website using WordPress. Enhanced responsiveness and site management without overhauling the CMS.",
     },
     {
-      company: "OpenDoor",
-      href: "https://opendoorholding.com/",
-      badges: [],
-      location: "Lebanon & Qatar",
-      title: "Full Stack Engineer",
-      logoUrl: "/opendoor.jpg",
-      start: "Jan 2023",
-      end: "Aug 2023",
-      description:
-        "Developed a real estate website with robust backend, interactive maps, SEO tools, and analytics integration.",
-    },
-    {
       company: "ZbounApp",
       href: "https://zboun.app",
       badges: [],
@@ -118,7 +120,7 @@ export const DATA = {
       title: "Backend Engineer",
       logoUrl: "/zboun.png",
       start: "May 2022",
-      end: "Jan 2023",
+      end: "Aug 2023",
       description:
         "Built scalable backend APIs for WhatsApp marketing with chatbots. Used AWS, microservices, and CI/CD pipelines.",
     },
@@ -141,8 +143,8 @@ export const DATA = {
       href: "https://liu.edu.lb",
       degree: "B.E. Computer Communication Engineering",
       logoUrl: "/liu.png",
-      start: "N/A",
-      end: "N/A",
+      start: "",
+      end: "",
     },
   ],
   projects: [
