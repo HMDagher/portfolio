@@ -82,7 +82,7 @@ export const DATA = {
       badges: [],
       location: "Lebanon",
       title: "Full Stake Engineer",
-      logoUrl: "/inout.png",
+      logoUrl: "/ehjoz.jpeg",
       start: "June 2025",
       end: "July 2025",
       description:
