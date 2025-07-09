@@ -73,7 +73,7 @@ export const DATA = {
       start: "May 2023",
       end: "Present",
       description:
-        "Led backend development for a SaaS platform enabling gamified loyalty programs. Integrated Stripe and Google APIs, and secured funding via Jusoor’s Incubator.",
+        "• Co-founded InOut, a startup dedicated to creating innovative loyalty programs, securing investment. • Led comprehensive business development efforts, including market research, UX/UI design, and backend development. • Achieved top 10 placement out of 85 startups at Jusoor’s Incubator SR4, showcasing the potential of our business model",
     },
     
     {
@@ -98,7 +98,7 @@ export const DATA = {
       start: "June 2024",
       end: "May 2025",
       description:
-        "Developed and maintained backend for multiple user panels using TALL stack. Integrated Chargebee, AWS SNS, and ShipStation for healthcare and e-commerce services.",
+        "• Developed and maintained backend for five panels using the TALL stack, enhancing user experience. • Designed and implemented RESTful APIs for seamless integration with a React-based landing page. • Integrated third-party services like Chargebee and AWS SNS, streamlining payment and delivery processes. • Enabled efficient e-commerce flow for patient treatments, resulting in improved operational efficiency.",
     },
     {
       company: "LYT by Dyala",
@@ -110,7 +110,7 @@ export const DATA = {
       start: "Aug 2023",
       end: "Dec 2023",
       description:
-        "Redesigned a high-performance website using WordPress. Enhanced responsiveness and site management without overhauling the CMS.",
+        "• Integrated a visually appealing website design that significantly enhanced site speed and responsiveness. • Utilized WordPress CMS to streamline content management tailored to business needs. • Implemented mobile responsiveness optimizations, improving user experience on mobile devices.",
     },
     {
       company: "ZbounApp",
@@ -122,7 +122,7 @@ export const DATA = {
       start: "May 2022",
       end: "Aug 2023",
       description:
-        "Built scalable backend APIs for WhatsApp marketing with chatbots. Used AWS, microservices, and CI/CD pipelines.",
+        "• Developed and maintained scalable backend APIs for seamless integration with WhatsApp Business API and AI chatbots. • Implemented microservices architecture and CI/CD pipelines on AWS to enhance application performance. • Strengthened system security and compliance with GDPR by encrypting sensitive data and securing API endpoints.",
     },
     {
       company: "OXShare",
@@ -134,7 +134,7 @@ export const DATA = {
       start: "Dec 2021",
       end: "Mar 2022",
       description:
-        "Developed a multilingual Flutter mobile app with MetaTrader 5 integration using FlutterFlow.",
+        "• Developed an intuitive user interface in Flutter using FlutterFlow, enhancing user engagement through advanced animations. • Implemented multilingual support, significantly increasing accessibility for a global trading audience utilizing MetaTrader 5 (MT5). • Collaborated with cross-functional teams to ensure seamless integration of design and functionality, improving overall user experience.",
     },
   ],
   education: [
