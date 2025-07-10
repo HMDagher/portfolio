@@ -168,6 +168,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
+          title:
           href: "https://chatcollect.com",
           icon: <Icons.globe className="size-3" />,
         },
@@ -188,10 +189,11 @@ export const DATA = {
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [
         {
-          type: "Website",
-          href: "https://nvgroup.ltd/",
-          icon: <Icons.globe className="size-3" />,
-        },
+    type: "Website",
+    title: "Website", // <-- Add this line
+    href: "https://nvgroup.ltd/",
+    icon: <Icons.globe className="size-3" />,
+  },
       ],
     },
   ],
