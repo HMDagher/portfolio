@@ -179,15 +179,20 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "Hack Western 5",
-      dates: "November 23rd - 25th, 2018",
-      location: "London, Ontario",
+      title: "FORSA III Program - Entrepreneurship in the Digital Economy",
+      dates: "March 1st - 30th, 2018",
+      location: "Beirut Digital District, Lebanon",
       description:
-        "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+        "Developed startup planning platform to document all documnts that a startup needs.",
+      image: "/nv-logo.jpg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://nvgroup.ltd/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
     },
   ],
 } as const;
