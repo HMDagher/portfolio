@@ -179,20 +179,37 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "FORSA III Program - Entrepreneurship in the Digital Economy",
-      dates: "March 1st - 30th, 2018",
+      title: "Jusoor’s Incubator SR4 Startup Business Course",
+      dates: "Jan - June, 2023",
       location: "Beirut Digital District, Lebanon",
       description:
-        "Developed startup planning platform to document all documnts that a startup needs.",
+        "Gamified loyalty program, Where loyalty goes beyond transaction.",
+      image: "/jusoor-logo.jpg",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+      links: [
+        {
+          type: "Website",
+          title: "Website", // <-- Add this line
+          href: "https://www.jusoor.ngo",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+    },
+    {
+      title: "FORSA III Program - Entrepreneurship in the Digital Economy",
+      dates: "Feb - March , 2024",
+      location: "Beirut Digital District, Lebanon",
+      description:
+        "Developed a startup planning platform to document all documnts that a startup needs.",
       image: "/nv-logo.jpg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [
         {
-    type: "Website",
-    title: "Website", // <-- Add this line
-    href: "https://nvgroup.ltd/",
-    icon: <Icons.globe className="size-3" />,
-  },
+          type: "Website",
+          title: "Website", // <-- Add this line
+          href: "https://nvgroup.ltd/",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
     },
   ],
