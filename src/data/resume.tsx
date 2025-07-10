@@ -8,9 +8,9 @@ export const DATA = {
   location: "Lebanon",
   locationLink: "https://www.google.com/maps/place/Lebanon",
   description:
-    "Experienced Full Stack Developer specializing in Laravel and the TALL Stack, with a passion for IoT and smart city solutions.",
+    "Experienced Full Stack Developer specializing in Laravel and the TALL Stack, with a passion for AI and smart city solutions.",
   summary:
-    "With over 3 years of experience designing scalable software solutions, I have developed a range of SaaS and mobile applications for industries including healthcare, real estate, and loyalty programs. I bring a strong backend engineering background and a vision to bridge software with industrial automation.",
+    "With over 3 years of experience designing scalable software solutions, I have developed a range of SaaS and mobile applications for industries including healthcare, real estate, and loyalty programs. I bring a strong backend engineering background and a vision to bridge software with automation.",
   avatarUrl: "/me.jpeg",
   skills: [
     "PHP",

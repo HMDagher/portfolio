@@ -164,11 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During the past 2 years I attended 2 Incubators People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  Over the past two years, I attended two incubators where people from around the country came together to build incredible things in just 2–3 days. It was eye-opening to witness the endless possibilities brought to life by a group of motivated and passionate individuals.
                 </p>
               </div>
             </div>
