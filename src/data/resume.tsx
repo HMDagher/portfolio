@@ -81,7 +81,7 @@ export const DATA = {
       href: "https://ehjozchalet.com/",
       badges: [],
       location: "Lebanon",
-      title: "Full Stake Engineer",
+      title: "Full Stack Developer",
       logoUrl: "/ehjoz.jpeg",
       start: "June 2025",
       end: "July 2025",
